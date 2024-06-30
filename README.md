@@ -10,4 +10,4 @@ Outside of tech, I enjoyed playing chess.
 - **GitHub**:   (https://github.com/pk58575/pk58575)
 - **LinkedIn**: (https://www.linkedin.com/in/prashant-kumar-0b1679227/ )
 - **Unstop**:   (https://unstop.com/u/prashkum5525)
-- **Website:    (https://grand-daffodil-d30d47.netlify.app/)
+- **Website**:    (https://grand-daffodil-d30d47.netlify.app/)
